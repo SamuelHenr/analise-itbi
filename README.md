@@ -6,7 +6,7 @@ Link dados: https://dados.pbh.gov.br/pt_BR/dataset/itbi-relatorios
 
 O código pode ser encontrado dentro da pasta "src". Ele está dividido de acordo com os experimentos realizados no trabalho.
 
-Para mais detalhes, favor ler a [documentação do trabalho] (https://github.com/SamuelHenr/analise-itbi/blob/main/Relatorio_Projeto_Aprendizado_Descritivo.pdf).
+Para mais detalhes, favor ler a [documentação do trabalho](https://github.com/SamuelHenr/analise-itbi/blob/main/Relatorio_Projeto_Aprendizado_Descritivo.pdf).
 
 ## Contato
 Para quaisquer dúvidas, sugestões ou pedidos, favor entrar em contato pelo email: samuelhma91@gmail.com
